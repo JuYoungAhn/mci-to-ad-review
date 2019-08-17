@@ -4,13 +4,10 @@
 ---
 
 ## Description
-Alzheimers's disease (AD), teh most common form of dementia, is characterized by progressive neurodegenerative disorder. 36 million people worldwide are affected by AD and the number is 
-expected to almost triple by 2050. Mild cognitive impairment (MCI) is a precursor phase of Alzheimer's disease. It is important to track MCI patients who will convert to AD. (Haochen, 2016) 
+Alzheimers's disease (AD), the most common form of dementia, is characterized by progressive neurodegenerative disorder. 36 million people worldwide are affected by AD and the number is expected to almost triple by 2050. Mild cognitive impairment (MCI) is a precursor phase of Alzheimer's disease. It is important to track MCI patients who will convert to AD. (Haochen, 2016) CSF sample collection (Aβ, total tau (tTau) and phospho-tau (pTau)) is too invasive to be used as a routine clinical examination. Also positron emission tomography (PET) can be expensive and access to scanners and radioligands remains limited. More accessible biomarkers for MCI-to-AD conversion would be needed. 
 
-CSF sample collection (Aβ, total tau (tTau) and phospho-tau (pTau)) is too invasive to be used as a routine clinical examination. Also positron emission tomography (PET) can be expensive and access to scanners and radioligands remains limited. More accessible biomarkers for MCI-to-AD conversion would be needed. 
-
-Advantages (green boxes) and disadvantages (red boxes) of the biomarkers that are currently most widely used in clinical trials. <br>
 ![alt text](figure/20190813_190208.png "Advantages")
+Advantages (green boxes) and disadvantages (red boxes) of the biomarkers that are currently most widely used in clinical trials. 
    
 ## Links
 - Alzheimer’s Disease Neuroimaging Initiative (ADNI, http://adni.loni.usc.edu/)
@@ -146,11 +143,7 @@ Advantages (green boxes) and disadvantages (red boxes) of the biomarkers that ar
 9. <a href="https://www.sciencedirect.com/science/article/pii/S155252601930086X">A deep learning model for early prediction of Alzheimer’s disease dementia based on hippocampal MRI (Alzheimer's & Dementia, 2019)</a>
 
 ### Genetics (APOE4/Polygenic Hazard Score)
-1. <a href="https://www.sciencedirect.com/science/article/pii/S1552526015001776?via%3Dihub">
-<span style="color:red">
-Genetic studies of quantitative MCI and AD phenotypes in ADNI: Progress, opportunities, and plans (Alzheimer's & Dementia, 2015)
-</span>  
-</a>
+1. <a href="https://www.sciencedirect.com/science/article/pii/S1552526015001776?via%3Dihub"> <span style="color:red"> Genetic studies of quantitative MCI and AD phenotypes in ADNI: Progress, opportunities, and plans (Alzheimer's & Dementia, 2015) </span> </a>
 
 > Genome-wide genotyping was also completed, enabling ADNI data to be included in several large and important GWAS studies.
 
