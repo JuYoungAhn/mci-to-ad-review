@@ -189,9 +189,7 @@ Table: PRS <-> MCI-to-AD conversion / PET tau / CSF
 
 
 2. <a href="https://www.ncbi.nlm.nih.gov/pubmed/31031585"><span style="color:red">Metabolomics in the Development and Progression of Dementia: A Systematic Review  (Front. Neurosci, 2019)</span></a>
-3. <a href="https://www.researchgate.net/publication/40849834_An_update_on_clinical_proteomics_in_Alzheimer's_research">
-  <span style="color:red">
-    An update on clinical proteomics in Alzheimer’s research (J. Neurochem, 2010)</span></a>
+3. <a href="https://www.researchgate.net/publication/40849834_An_update_on_clinical_proteomics_in_Alzheimer's_research"> <span style="color:red">An update on clinical proteomics in Alzheimer’s research (J. Neurochem, 2010)</span></a>
     
 4. <a href="http://www.frontiersin.org/Journal/10.3389/fneur.2015.00236/abstract"><span style="color:red">Blood-Based Proteomic Biomarkers of Alzheimer’s Disease Pathology (Front. Neurol, 2015)</span></a>
 
