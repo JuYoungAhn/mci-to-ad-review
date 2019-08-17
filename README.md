@@ -110,7 +110,7 @@ Advantages (green boxes) and disadvantages (red boxes) of the biomarkers that ar
     - Plasma Proteomic Data 
     > Plasma-based proteomic biomarkers have been proposed as an alternative for the early diagnosis of AD to cerebrospinal fluid (CSF)-based biomarkers. For these reasons, and because blood plasma samples are arguably less invasive and more routinely obtained than CSF samples, we examined plasma proteomic biomarkers as an alternative to CSF biomarkers.
     
-        + amyloid-β proteins (Aβ42, Aβ40, and Aβ42/Aβ40 ratio)
+    - amyloid-β proteins (Aβ42, Aβ40, and Aβ42/Aβ40 ratio)
     
     > Aβ42 and Aβ40 have been identified as the major molecular species contributing to the amyloid (“senile”) plaques, a pathological hallmark of AD
     
@@ -134,9 +134,10 @@ Advantages (green boxes) and disadvantages (red boxes) of the biomarkers that ar
 1. <a href="https://doi.org/10.1109/icip.2016.7532332">Alzheimer's disease diagnostics by adaptation of 3D convolutional network. (2016)</a>
 1. <a href="https://doi.org/10.1007/s12021-018-9370-4">Multi-modality cascaded convolutional neural networks for alzheimer's disease diagnosis. (Neuroinformatics, 2018)</a>
 1. <a href="http://dx.doi.org/10.21037/qims.2018.10.17">Discrimination and conversion prediction of MCI using CNN (Quantitative Imaging in Medicine and Surgery, 2018)</a> <br>
-   Deep-learning based conversion prediction <br>
-   ![alt text][image2]
-   [image2]: ./figure/20190811_183923.png "Classification"
+
+ Deep-learning based conversion prediction <br>
+![alt text](figure/20190811_183923.png "Classification")
+
 6. <a href="https://www.ncbi.nlm.nih.gov/pubmed/29632364">Multimodal and Multiscale Deep Neural Networks for the Early Diagnosis of Alzheimer’s Disease using structural MR and FDG-PET images (Scientific Reports, 2017)</a>
 7. <a href="https://doi.org/10.1016/j.dadm.2018.07.004">Machine learning of neuroimaging for assisted diagnosis of cognitive impairment and dementia: A systematic review (Neuroimaging, 2018)</a>
 8. <a href="https://doi.org/10.1016/j.nicl.2018.101645">Automated classification of Alzheimer's disease and mild cognitive impairment using a single MRI and deep neural networks (NeuroImage: Clinical, 2019)</a>
