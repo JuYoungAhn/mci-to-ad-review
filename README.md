@@ -44,9 +44,8 @@ Advantages (green boxes) and disadvantages (red boxes) of the biomarkers that ar
     - Genetic factors
     - Demographics
 
-    Model Evaluation:  
-   ![alt text][image3]
-   [image3]: ./figure/20190811_181546.png "Model Evaluation"
+   ![alt text](figure/20190811_181546.png "Model Evaluation")
+
 2. <a href="https://doi.org/10.1038/s41598-018-37769-z">Predicting Alzheimer’s disease progression using multi-modal deep learning approach (Scientific Reports, 2019)</a>
     
     Method: Deep learning (multimodal recurrent neural network)<br>
@@ -194,9 +193,11 @@ Table: PRS <-> MCI-to-AD conversion / PET tau / CSF
 4. <a href="http://www.frontiersin.org/Journal/10.3389/fneur.2015.00236/abstract"><span style="color:red">Blood-Based Proteomic Biomarkers of Alzheimer’s Disease Pathology (Front. Neurol, 2015)</span></a>
 
 Plasma protein <-> CSF, PET Scan
+
 5. <a href="https://www.ncbi.nlm.nih.gov/pubmed/30618716">Plasma Protein Biomarkers for the Prediction of CSF Amyloid and Tau and [18F]-Flutemetamol PET Scan Result (Front Aging Neurosci, 2018)</a>
 
 Imaging + Plasma protein <-> MCI-to-AD conversion / AD
+
 6. <a href="https://www.nature.com/articles/srep26712">A semi-mechanism approach based on MRI and proteomics for prediction of conversion from mild cognitive impairment to Alzheimer’s disease
 (Scientific Reports, 2016)</a>
 
